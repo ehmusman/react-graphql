@@ -1,0 +1,1 @@
+graphql is a powerfull query language used to communicate between a client(a browser) and a server.
